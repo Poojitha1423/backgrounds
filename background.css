@@ -1,0 +1,4 @@
+#grad{
+    background-image: conic-gradient;|(red 45deg,yellow 90deg,green,blue,black)
+border-radius: 50deg;
+}
